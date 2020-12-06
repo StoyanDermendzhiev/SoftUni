@@ -1,2 +1,2 @@
-# SoftUni-Software-Engineering
+# SoftUni
 C# path in SoftUni
