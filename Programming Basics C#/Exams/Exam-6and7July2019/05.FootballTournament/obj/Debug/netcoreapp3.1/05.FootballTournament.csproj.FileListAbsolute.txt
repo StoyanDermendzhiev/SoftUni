@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.genruntimeconfig.cache

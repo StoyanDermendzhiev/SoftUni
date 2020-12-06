@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.exe
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.deps.json
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.pdb
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.pdb
+C:\Users\Techo\source\repos\FinalExam04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache

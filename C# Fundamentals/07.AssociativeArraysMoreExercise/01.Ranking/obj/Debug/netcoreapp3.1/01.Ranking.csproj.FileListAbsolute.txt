@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.exe
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.deps.json
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.runtimeconfig.json
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.dll
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\bin\Debug\netcoreapp3.1\01.Ranking.pdb
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.AssemblyInfo.cs
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.dll
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.pdb
+C:\Users\Techo\source\repos\07.AssociativeArraysMoreExercise\01.Ranking\obj\Debug\netcoreapp3.1\01.Ranking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.exe
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.deps.json
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.json
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfo.cs
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+C:\Users\Techo\source\repos\03.ArraysLab\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.genruntimeconfig.cache

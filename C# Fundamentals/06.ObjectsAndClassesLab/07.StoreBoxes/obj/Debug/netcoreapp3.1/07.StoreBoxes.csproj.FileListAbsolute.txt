@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\bin\Debug\netcoreapp3.1\07.StoreBoxes.exe
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\bin\Debug\netcoreapp3.1\07.StoreBoxes.deps.json
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\bin\Debug\netcoreapp3.1\07.StoreBoxes.runtimeconfig.json
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\bin\Debug\netcoreapp3.1\07.StoreBoxes.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\bin\Debug\netcoreapp3.1\07.StoreBoxes.dll
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\bin\Debug\netcoreapp3.1\07.StoreBoxes.pdb
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\obj\Debug\netcoreapp3.1\07.StoreBoxes.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\obj\Debug\netcoreapp3.1\07.StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\obj\Debug\netcoreapp3.1\07.StoreBoxes.AssemblyInfo.cs
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\obj\Debug\netcoreapp3.1\07.StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\obj\Debug\netcoreapp3.1\07.StoreBoxes.dll
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\obj\Debug\netcoreapp3.1\07.StoreBoxes.pdb
+C:\Users\Techo\source\repos\06.ObjectsAndClassesLab\07.StoreBoxes\obj\Debug\netcoreapp3.1\07.StoreBoxes.genruntimeconfig.cache

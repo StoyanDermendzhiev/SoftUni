@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.genruntimeconfig.cache

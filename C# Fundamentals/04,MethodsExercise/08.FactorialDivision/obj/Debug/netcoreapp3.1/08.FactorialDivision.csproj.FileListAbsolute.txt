@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.exe
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.deps.json
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.runtimeconfig.json
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.dll
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\bin\Debug\netcoreapp3.1\08.FactorialDivision.pdb
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.AssemblyInfo.cs
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.dll
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.pdb
+C:\Users\Techo\source\repos\04,MethodsExercise\08.FactorialDivision\obj\Debug\netcoreapp3.1\08.FactorialDivision.genruntimeconfig.cache

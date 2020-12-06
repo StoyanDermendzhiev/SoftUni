@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.exe
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.deps.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfo.cs
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.genruntimeconfig.cache

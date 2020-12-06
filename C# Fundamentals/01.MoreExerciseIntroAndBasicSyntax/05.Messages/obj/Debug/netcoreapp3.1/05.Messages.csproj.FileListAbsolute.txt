@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.exe
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.deps.json
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.json
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.dll
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\bin\Debug\netcoreapp3.1\05.Messages.pdb
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.AssemblyInfo.cs
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.dll
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.pdb
+C:\Users\Techo\source\repos\01.MoreExerciseIntroAndBasicSyntax\05.Messages\obj\Debug\netcoreapp3.1\05.Messages.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5PJVgocpi3XRXDo/FPIbJBXgA2irDMW3G+eEPq7zQYVmqrKjP1cwsiZrW0A7s7YS/rMCG1I4AsxPSc3DzGldw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Techo\\source\\repos\\07.AssociativeArraysLab\\02.OddOccurrences\\02.OddOccurrences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Techo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Techo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Techo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

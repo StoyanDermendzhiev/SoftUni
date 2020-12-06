@@ -1,0 +1,37 @@
+﻿using System;
+
+namespace _04.PersonalTitles
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Input
+            double age = double.Parse(Console.ReadLine());
+            string gender = Console.ReadLine();
+            //Calculations
+            if (gender == "f")
+            {
+                if (age >= 16)
+                {
+                    Console.WriteLine("Ms.");
+                }
+                else
+                {
+                    Console.WriteLine("Miss");
+                }
+            }
+            else
+            {
+                if (age >= 16)
+                {
+                    Console.WriteLine("Mr.");
+                }
+                else
+                {
+                    Console.WriteLine("Master");
+                }
+            }
+        }
+    }
+}

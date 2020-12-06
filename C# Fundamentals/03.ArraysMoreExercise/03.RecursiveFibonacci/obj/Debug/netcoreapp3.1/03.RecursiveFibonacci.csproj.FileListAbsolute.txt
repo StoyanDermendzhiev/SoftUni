@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.exe
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.deps.json
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.runtimeconfig.json
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.dll
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp3.1\03.RecursiveFibonacci.pdb
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.dll
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.pdb
+C:\Users\Techo\source\repos\03.ArraysMoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp3.1\03.RecursiveFibonacci.genruntimeconfig.cache

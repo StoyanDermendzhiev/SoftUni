@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMu2Nm1XQPMGXk3vz6ZuEaKnX1H3O5T3G6Rc8e6Bi1UMzE+hBfXPez6Jsa1v2CDLUmieM2GjYLATKv3fTrtWGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magi\\source\\repos\\FirstStepsInCoding\\Concatenate\\Concatenate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

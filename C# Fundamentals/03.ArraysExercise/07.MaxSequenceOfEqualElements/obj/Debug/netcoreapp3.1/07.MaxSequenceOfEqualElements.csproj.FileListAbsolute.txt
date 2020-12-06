@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.exe
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.deps.json
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\Techo\source\repos\03.ArraysExercise\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache

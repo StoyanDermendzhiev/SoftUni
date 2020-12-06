@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\bin\Debug\netcoreapp3.1\06.EasterCompetition.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\bin\Debug\netcoreapp3.1\06.EasterCompetition.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\bin\Debug\netcoreapp3.1\06.EasterCompetition.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\bin\Debug\netcoreapp3.1\06.EasterCompetition.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\bin\Debug\netcoreapp3.1\06.EasterCompetition.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\bin\Debug\netcoreapp3.1\06.EasterCompetition.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\obj\Debug\netcoreapp3.1\06.EasterCompetition.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\obj\Debug\netcoreapp3.1\06.EasterCompetition.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\obj\Debug\netcoreapp3.1\06.EasterCompetition.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\obj\Debug\netcoreapp3.1\06.EasterCompetition.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\obj\Debug\netcoreapp3.1\06.EasterCompetition.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\obj\Debug\netcoreapp3.1\06.EasterCompetition.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterCompetition\obj\Debug\netcoreapp3.1\06.EasterCompetition.genruntimeconfig.cache

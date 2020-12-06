@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.exe
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.deps.json
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.json
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.dll
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\bin\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.AssemblyInfo.cs
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.dll
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.pdb
+C:\Users\Techo\source\repos\06.3NestedLoopsExercise\01.NumberPyramid\obj\Debug\netcoreapp3.1\01.NumberPyramid.genruntimeconfig.cache

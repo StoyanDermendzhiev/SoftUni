@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.exe
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.deps.json
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.json
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\bin\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.AssemblyInfo.cs
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.dll
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.pdb
+C:\Users\Techo\source\repos\05.2WhileLoopLab\04.Sequence2k+1\obj\Debug\netcoreapp3.1\04.Sequence2k+1.genruntimeconfig.cache

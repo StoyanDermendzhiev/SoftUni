@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.exe
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.deps.json
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.json
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.dll
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\bin\Debug\netcoreapp3.1\03.SumNumbers.pdb
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.AssemblyInfo.cs
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.dll
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.pdb
+C:\Users\Techo\source\repos\05.2WhileLoopLab\03.SumNumbers\obj\Debug\netcoreapp3.1\03.SumNumbers.genruntimeconfig.cache

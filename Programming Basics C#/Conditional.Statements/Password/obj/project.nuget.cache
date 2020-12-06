@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9T8eBiYbjWLMBvrl7wcesfWcxUTDe6YTMMJnP6Puv/jcrSyG6i7FCdtSaQ1fA6dj2YgL/xJ/N3XEoFo5sP8ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magi\\source\\repos\\Conditional.Statements\\Password\\05.PasswordGuess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

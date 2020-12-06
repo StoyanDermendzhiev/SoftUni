@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "utJ+ZRkSoZFeorjwI4quW8vCNbn+nK8Et/0+p1DbY/w3CM+//DGz9d3/9ax+R6cTX5uYxQfa9LrKHirLIUD7Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magi\\source\\repos\\FirstStepsInCoding\\YardGreening\\YardGreening.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

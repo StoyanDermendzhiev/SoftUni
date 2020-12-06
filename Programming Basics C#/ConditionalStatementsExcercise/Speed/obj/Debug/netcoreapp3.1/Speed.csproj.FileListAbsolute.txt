@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\bin\Debug\netcoreapp3.1\Speed.exe
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\bin\Debug\netcoreapp3.1\Speed.deps.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\bin\Debug\netcoreapp3.1\Speed.runtimeconfig.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\bin\Debug\netcoreapp3.1\Speed.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\bin\Debug\netcoreapp3.1\Speed.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\bin\Debug\netcoreapp3.1\Speed.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\obj\Debug\netcoreapp3.1\Speed.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\obj\Debug\netcoreapp3.1\Speed.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\obj\Debug\netcoreapp3.1\Speed.AssemblyInfo.cs
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\obj\Debug\netcoreapp3.1\Speed.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\obj\Debug\netcoreapp3.1\Speed.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\obj\Debug\netcoreapp3.1\Speed.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\Speed\obj\Debug\netcoreapp3.1\Speed.genruntimeconfig.cache

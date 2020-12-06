@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.exe
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.deps.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.runtimeconfig.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.dll
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.pdb
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.AssemblyInfo.cs
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.dll
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.pdb
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.genruntimeconfig.cache

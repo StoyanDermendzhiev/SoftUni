@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\bin\Debug\netcoreapp3.1\03.FitnessCard.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\03.FitnessCard\obj\Debug\netcoreapp3.1\03.FitnessCard.genruntimeconfig.cache

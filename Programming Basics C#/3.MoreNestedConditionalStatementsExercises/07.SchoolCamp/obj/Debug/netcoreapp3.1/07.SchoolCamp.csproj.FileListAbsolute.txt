@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\bin\Debug\netcoreapp3.1\07.SchoolCamp.exe
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\bin\Debug\netcoreapp3.1\07.SchoolCamp.deps.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\bin\Debug\netcoreapp3.1\07.SchoolCamp.runtimeconfig.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\bin\Debug\netcoreapp3.1\07.SchoolCamp.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\bin\Debug\netcoreapp3.1\07.SchoolCamp.dll
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\bin\Debug\netcoreapp3.1\07.SchoolCamp.pdb
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\obj\Debug\netcoreapp3.1\07.SchoolCamp.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\obj\Debug\netcoreapp3.1\07.SchoolCamp.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\obj\Debug\netcoreapp3.1\07.SchoolCamp.AssemblyInfo.cs
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\obj\Debug\netcoreapp3.1\07.SchoolCamp.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\obj\Debug\netcoreapp3.1\07.SchoolCamp.dll
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\obj\Debug\netcoreapp3.1\07.SchoolCamp.pdb
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\07.SchoolCamp\obj\Debug\netcoreapp3.1\07.SchoolCamp.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.exe
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.deps.json
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.json
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.dll
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.pdb
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfo.cs
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.dll
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.pdb
+C:\Users\Techo\source\repos\04.MethodsLab\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.genruntimeconfig.cache

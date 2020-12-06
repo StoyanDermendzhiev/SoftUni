@@ -1,0 +1,12 @@
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.exe
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.deps.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.dll
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.pdb
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfo.cs
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.dll
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.pdb
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.genruntimeconfig.cache

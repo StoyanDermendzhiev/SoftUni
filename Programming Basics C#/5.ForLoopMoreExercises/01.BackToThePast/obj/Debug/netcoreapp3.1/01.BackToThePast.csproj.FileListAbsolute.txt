@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.exe
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.deps.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.dll
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.pdb
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfo.cs
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.dll
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.pdb
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.genruntimeconfig.cache

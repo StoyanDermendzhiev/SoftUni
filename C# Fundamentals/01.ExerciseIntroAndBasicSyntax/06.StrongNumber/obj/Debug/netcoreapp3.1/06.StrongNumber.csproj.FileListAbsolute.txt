@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.exe
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.deps.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.dll
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.pdb
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfo.cs
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.dll
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.pdb
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.genruntimeconfig.cache

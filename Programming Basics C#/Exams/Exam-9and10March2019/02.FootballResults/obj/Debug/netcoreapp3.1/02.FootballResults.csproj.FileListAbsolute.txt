@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.genruntimeconfig.cache

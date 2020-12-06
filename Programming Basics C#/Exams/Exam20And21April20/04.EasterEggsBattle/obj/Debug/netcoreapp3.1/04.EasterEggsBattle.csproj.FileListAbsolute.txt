@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.genruntimeconfig.cache

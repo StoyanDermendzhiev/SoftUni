@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\bin\Debug\netcoreapp3.1\01.PoolDay.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\01.PoolDay\obj\Debug\netcoreapp3.1\01.PoolDay.genruntimeconfig.cache

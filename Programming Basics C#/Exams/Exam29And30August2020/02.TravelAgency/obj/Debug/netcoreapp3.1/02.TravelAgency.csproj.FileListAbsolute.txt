@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\bin\Debug\netcoreapp3.1\02.TravelAgency.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\bin\Debug\netcoreapp3.1\02.TravelAgency.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\bin\Debug\netcoreapp3.1\02.TravelAgency.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\bin\Debug\netcoreapp3.1\02.TravelAgency.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\bin\Debug\netcoreapp3.1\02.TravelAgency.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\bin\Debug\netcoreapp3.1\02.TravelAgency.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\obj\Debug\netcoreapp3.1\02.TravelAgency.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\obj\Debug\netcoreapp3.1\02.TravelAgency.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\obj\Debug\netcoreapp3.1\02.TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\obj\Debug\netcoreapp3.1\02.TravelAgency.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\obj\Debug\netcoreapp3.1\02.TravelAgency.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\02.TravelAgency\obj\Debug\netcoreapp3.1\02.TravelAgency.genruntimeconfig.cache

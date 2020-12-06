@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.exe
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.deps.json
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.runtimeconfig.json
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.dll
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\bin\Debug\netcoreapp3.1\FigureArea.pdb
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.dll
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.pdb
+C:\Users\Magi\source\repos\Conditional.Statements\FigureArea\obj\Debug\netcoreapp3.1\FigureArea.genruntimeconfig.cache

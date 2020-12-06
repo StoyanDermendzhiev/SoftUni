@@ -1,0 +1,12 @@
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.exe
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.deps.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.runtimeconfig.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.AssemblyInfo.cs
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\GodzillaKong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.genruntimeconfig.cache

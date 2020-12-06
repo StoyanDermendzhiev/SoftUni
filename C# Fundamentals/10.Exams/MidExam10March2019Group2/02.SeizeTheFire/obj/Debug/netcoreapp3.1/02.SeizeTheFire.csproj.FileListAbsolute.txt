@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\bin\Debug\netcoreapp3.1\02.SeizeTheFire.exe
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\bin\Debug\netcoreapp3.1\02.SeizeTheFire.deps.json
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\bin\Debug\netcoreapp3.1\02.SeizeTheFire.runtimeconfig.json
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\bin\Debug\netcoreapp3.1\02.SeizeTheFire.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\bin\Debug\netcoreapp3.1\02.SeizeTheFire.dll
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\bin\Debug\netcoreapp3.1\02.SeizeTheFire.pdb
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\obj\Debug\netcoreapp3.1\02.SeizeTheFire.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\obj\Debug\netcoreapp3.1\02.SeizeTheFire.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\obj\Debug\netcoreapp3.1\02.SeizeTheFire.AssemblyInfo.cs
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\obj\Debug\netcoreapp3.1\02.SeizeTheFire.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\obj\Debug\netcoreapp3.1\02.SeizeTheFire.dll
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\obj\Debug\netcoreapp3.1\02.SeizeTheFire.pdb
+C:\Users\Techo\source\repos\MidExam10March2019Group2\02.SeizeTheFire\obj\Debug\netcoreapp3.1\02.SeizeTheFire.genruntimeconfig.cache

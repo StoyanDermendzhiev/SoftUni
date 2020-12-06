@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7April2019\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.genruntimeconfig.cache

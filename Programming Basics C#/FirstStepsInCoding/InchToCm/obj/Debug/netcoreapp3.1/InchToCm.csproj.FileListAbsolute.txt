@@ -1,0 +1,12 @@
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.exe
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.deps.json
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.runtimeconfig.json
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.dll
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\bin\Debug\netcoreapp3.1\InchToCm.pdb
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.AssemblyInfo.cs
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.dll
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.pdb
+C:\Users\Magi\source\repos\FirstStepsInCoding\InchToCm\obj\Debug\netcoreapp3.1\InchToCm.genruntimeconfig.cache

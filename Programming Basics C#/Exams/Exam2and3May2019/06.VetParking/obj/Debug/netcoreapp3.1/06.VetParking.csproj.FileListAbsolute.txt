@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\netcoreapp3.1\06.VetParking.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\netcoreapp3.1\06.VetParking.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\netcoreapp3.1\06.VetParking.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\netcoreapp3.1\06.VetParking.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\netcoreapp3.1\06.VetParking.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\bin\Debug\netcoreapp3.1\06.VetParking.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\netcoreapp3.1\06.VetParking.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\netcoreapp3.1\06.VetParking.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\netcoreapp3.1\06.VetParking.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\netcoreapp3.1\06.VetParking.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\netcoreapp3.1\06.VetParking.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\06.VetParking\obj\Debug\netcoreapp3.1\06.VetParking.genruntimeconfig.cache

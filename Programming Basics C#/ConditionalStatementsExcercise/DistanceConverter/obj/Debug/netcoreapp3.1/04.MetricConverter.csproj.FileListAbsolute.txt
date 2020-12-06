@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.AssemblyInfo.cs
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.exe
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.deps.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.runtimeconfig.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\bin\Debug\netcoreapp3.1\04.MetricConverter.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.dll
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.pdb
+C:\Users\Magi\source\repos\ConditionalStatementsExcercise\DistanceConverter\obj\Debug\netcoreapp3.1\04.MetricConverter.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.genruntimeconfig.cache

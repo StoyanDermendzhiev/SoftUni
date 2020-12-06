@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.genruntimeconfig.cache

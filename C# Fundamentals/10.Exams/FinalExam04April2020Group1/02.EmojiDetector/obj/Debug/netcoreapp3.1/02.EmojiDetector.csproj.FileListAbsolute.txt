@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.exe
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.deps.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.exe
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.deps.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\bin\Debug\netcoreapp3.1\03.NewHouse.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.AssemblyInfo.cs
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\03.NewHouse\obj\Debug\netcoreapp3.1\03.NewHouse.genruntimeconfig.cache

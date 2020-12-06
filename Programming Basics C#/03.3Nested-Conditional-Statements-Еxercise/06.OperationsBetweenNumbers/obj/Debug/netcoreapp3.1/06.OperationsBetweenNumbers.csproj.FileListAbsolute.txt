@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.exe
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.deps.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.exe
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.deps.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.dll
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.pdb
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfo.cs
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.dll
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.pdb
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.genruntimeconfig.cache

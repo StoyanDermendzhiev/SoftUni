@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\bin\Debug\netcoreapp3.1\04.GiftsFromSanta.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\bin\Debug\netcoreapp3.1\04.GiftsFromSanta.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\bin\Debug\netcoreapp3.1\04.GiftsFromSanta.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\bin\Debug\netcoreapp3.1\04.GiftsFromSanta.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\bin\Debug\netcoreapp3.1\04.GiftsFromSanta.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\bin\Debug\netcoreapp3.1\04.GiftsFromSanta.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\obj\Debug\netcoreapp3.1\04.GiftsFromSanta.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\obj\Debug\netcoreapp3.1\04.GiftsFromSanta.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\obj\Debug\netcoreapp3.1\04.GiftsFromSanta.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\obj\Debug\netcoreapp3.1\04.GiftsFromSanta.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\obj\Debug\netcoreapp3.1\04.GiftsFromSanta.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\obj\Debug\netcoreapp3.1\04.GiftsFromSanta.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam29And30August2020\04.GiftsFromSanta\obj\Debug\netcoreapp3.1\04.GiftsFromSanta.genruntimeconfig.cache

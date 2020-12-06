@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nR/Kk4/SO515UCgs/GPBK2O6dJFqhpOYUCZp9Yobd6dO500y/uAZ2UyZKcEYbBTX3tXNLtKRhOYMh+F24OGWaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Magi\\source\\repos\\Conditional.Statements\\EvenOdd\\03.EvenOrOdd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Magi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

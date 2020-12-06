@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.exe
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.deps.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\bin\Debug\netcoreapp3.1\04.FishingBoat.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.AssemblyInfo.cs
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\04.FishingBoat\obj\Debug\netcoreapp3.1\04.FishingBoat.genruntimeconfig.cache

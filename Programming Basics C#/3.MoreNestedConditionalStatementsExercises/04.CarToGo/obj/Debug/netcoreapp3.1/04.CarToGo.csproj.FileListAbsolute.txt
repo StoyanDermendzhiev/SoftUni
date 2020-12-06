@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\bin\Debug\netcoreapp3.1\04.CarToGo.exe
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\bin\Debug\netcoreapp3.1\04.CarToGo.deps.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\bin\Debug\netcoreapp3.1\04.CarToGo.runtimeconfig.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\bin\Debug\netcoreapp3.1\04.CarToGo.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\bin\Debug\netcoreapp3.1\04.CarToGo.dll
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\bin\Debug\netcoreapp3.1\04.CarToGo.pdb
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\obj\Debug\netcoreapp3.1\04.CarToGo.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\obj\Debug\netcoreapp3.1\04.CarToGo.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\obj\Debug\netcoreapp3.1\04.CarToGo.AssemblyInfo.cs
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\obj\Debug\netcoreapp3.1\04.CarToGo.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\obj\Debug\netcoreapp3.1\04.CarToGo.dll
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\obj\Debug\netcoreapp3.1\04.CarToGo.pdb
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\04.CarToGo\obj\Debug\netcoreapp3.1\04.CarToGo.genruntimeconfig.cache

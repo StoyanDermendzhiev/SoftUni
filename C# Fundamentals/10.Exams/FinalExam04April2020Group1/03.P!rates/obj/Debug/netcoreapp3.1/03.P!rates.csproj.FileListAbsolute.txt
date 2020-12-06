@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.exe
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.deps.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.dll
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\bin\Debug\netcoreapp3.1\03.P!rates.pdb
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.dll
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.pdb
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExam04April2020Group1\03.P!rates\obj\Debug\netcoreapp3.1\03.P!rates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.exe
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.deps.json
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.runtimeconfig.json
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.dll
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\bin\Debug\netcoreapp3.1\03.TakeSkipRope.pdb
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.AssemblyInfo.cs
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.dll
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.pdb
+C:\Users\Techo\source\repos\05.ListsMoreExercise\03.TakeSkipRope\obj\Debug\netcoreapp3.1\03.TakeSkipRope.genruntimeconfig.cache

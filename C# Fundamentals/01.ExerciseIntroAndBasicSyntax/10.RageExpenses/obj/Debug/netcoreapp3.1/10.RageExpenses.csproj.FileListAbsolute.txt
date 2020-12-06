@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.exe
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.deps.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfo.cs
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.dll
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.pdb
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.genruntimeconfig.cache

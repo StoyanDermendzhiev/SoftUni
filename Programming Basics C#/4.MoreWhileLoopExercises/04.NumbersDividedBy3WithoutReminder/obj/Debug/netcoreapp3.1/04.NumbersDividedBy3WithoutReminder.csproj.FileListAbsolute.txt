@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.exe
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.deps.json
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.runtimeconfig.json
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.dll
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.pdb
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.AssemblyInfo.cs
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.dll
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.pdb
+C:\Users\Techo\source\repos\4.MoreWhileLoopExercises\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.genruntimeconfig.cache

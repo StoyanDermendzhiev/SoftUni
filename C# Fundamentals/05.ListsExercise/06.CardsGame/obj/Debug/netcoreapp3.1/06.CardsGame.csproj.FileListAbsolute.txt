@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.exe
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.deps.json
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.json
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.dll
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.pdb
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfo.cs
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.dll
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.pdb
+C:\Users\Techo\source\repos\05.ListsExercise\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.genruntimeconfig.cache

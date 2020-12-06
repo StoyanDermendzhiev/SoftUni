@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.exe
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.deps.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+C:\Users\Techo\source\repos\01.ExerciseIntroAndBasicSyntax\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.exe
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.deps.json
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+C:\Users\Techo\source\repos\08.TextProcessingExercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.genruntimeconfig.cache

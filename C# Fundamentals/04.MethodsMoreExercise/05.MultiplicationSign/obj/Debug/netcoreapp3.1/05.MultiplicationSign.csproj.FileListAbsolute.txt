@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.exe
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.deps.json
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.json
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.AssemblyInfo.cs
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.dll
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.pdb
+C:\Users\Techo\source\repos\04.MethodsMoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp3.1\05.MultiplicationSign.genruntimeconfig.cache

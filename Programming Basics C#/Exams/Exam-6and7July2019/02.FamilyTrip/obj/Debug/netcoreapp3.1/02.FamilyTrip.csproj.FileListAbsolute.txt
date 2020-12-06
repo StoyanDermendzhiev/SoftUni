@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.genruntimeconfig.cache

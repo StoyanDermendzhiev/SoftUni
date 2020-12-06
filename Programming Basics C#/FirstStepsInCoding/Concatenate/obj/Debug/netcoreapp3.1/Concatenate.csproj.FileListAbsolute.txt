@@ -1,0 +1,12 @@
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\bin\Debug\netcoreapp3.1\Concatenate.exe
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\bin\Debug\netcoreapp3.1\Concatenate.deps.json
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\bin\Debug\netcoreapp3.1\Concatenate.runtimeconfig.json
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\bin\Debug\netcoreapp3.1\Concatenate.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\bin\Debug\netcoreapp3.1\Concatenate.dll
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\bin\Debug\netcoreapp3.1\Concatenate.pdb
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\obj\Debug\netcoreapp3.1\Concatenate.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\obj\Debug\netcoreapp3.1\Concatenate.AssemblyInfo.cs
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\obj\Debug\netcoreapp3.1\Concatenate.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\obj\Debug\netcoreapp3.1\Concatenate.dll
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\obj\Debug\netcoreapp3.1\Concatenate.pdb
+C:\Users\Magi\source\repos\FirstStepsInCoding\Concatenate\obj\Debug\netcoreapp3.1\Concatenate.genruntimeconfig.cache

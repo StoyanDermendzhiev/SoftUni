@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.exe
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.deps.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.dll
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\bin\Debug\netcoreapp3.1\03.NeedForSpeedIII.pdb
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.dll
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.pdb
+C:\Users\Techo\source\repos\SoftUni-Software-Engineering\C# Fundamentals\10.Exams\FinalExamRetake10April2020\03.NeedForSpeedIII\obj\Debug\netcoreapp3.1\03.NeedForSpeedIII.genruntimeconfig.cache

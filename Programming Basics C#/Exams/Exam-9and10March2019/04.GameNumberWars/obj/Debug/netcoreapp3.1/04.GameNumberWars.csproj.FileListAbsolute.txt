@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.exe
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.deps.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.runtimeconfig.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.dll
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.pdb
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.AssemblyInfo.cs
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.dll
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.pdb
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.genruntimeconfig.cache

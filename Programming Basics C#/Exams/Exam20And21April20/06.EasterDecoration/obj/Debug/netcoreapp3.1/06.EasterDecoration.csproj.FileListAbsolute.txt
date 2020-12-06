@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam20And21April20\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\bin\Debug\netcoreapp3.1\04.Number100To200.exe
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\bin\Debug\netcoreapp3.1\04.Number100To200.deps.json
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\bin\Debug\netcoreapp3.1\04.Number100To200.runtimeconfig.json
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\bin\Debug\netcoreapp3.1\04.Number100To200.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\bin\Debug\netcoreapp3.1\04.Number100To200.dll
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\bin\Debug\netcoreapp3.1\04.Number100To200.pdb
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\obj\Debug\netcoreapp3.1\04.Number100To200.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\obj\Debug\netcoreapp3.1\04.Number100To200.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\obj\Debug\netcoreapp3.1\04.Number100To200.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\obj\Debug\netcoreapp3.1\04.Number100To200.dll
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\obj\Debug\netcoreapp3.1\04.Number100To200.pdb
+C:\Users\Magi\source\repos\Conditional.Statements\04.Number100To200\obj\Debug\netcoreapp3.1\04.Number100To200.genruntimeconfig.cache

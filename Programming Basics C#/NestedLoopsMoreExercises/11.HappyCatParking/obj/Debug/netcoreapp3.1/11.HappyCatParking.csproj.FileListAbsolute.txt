@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\bin\Debug\netcoreapp3.1\11.HappyCatParking.exe
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\bin\Debug\netcoreapp3.1\11.HappyCatParking.deps.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\bin\Debug\netcoreapp3.1\11.HappyCatParking.runtimeconfig.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\bin\Debug\netcoreapp3.1\11.HappyCatParking.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\bin\Debug\netcoreapp3.1\11.HappyCatParking.dll
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\bin\Debug\netcoreapp3.1\11.HappyCatParking.pdb
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\obj\Debug\netcoreapp3.1\11.HappyCatParking.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\obj\Debug\netcoreapp3.1\11.HappyCatParking.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\obj\Debug\netcoreapp3.1\11.HappyCatParking.AssemblyInfo.cs
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\obj\Debug\netcoreapp3.1\11.HappyCatParking.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\obj\Debug\netcoreapp3.1\11.HappyCatParking.dll
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\obj\Debug\netcoreapp3.1\11.HappyCatParking.pdb
+C:\Users\Techo\source\repos\NestedLoopsMoreExercises\11.HappyCatParking\obj\Debug\netcoreapp3.1\11.HappyCatParking.genruntimeconfig.cache

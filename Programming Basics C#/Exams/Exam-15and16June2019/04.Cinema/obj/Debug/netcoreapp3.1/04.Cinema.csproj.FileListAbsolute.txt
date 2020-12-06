@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.genruntimeconfig.cache

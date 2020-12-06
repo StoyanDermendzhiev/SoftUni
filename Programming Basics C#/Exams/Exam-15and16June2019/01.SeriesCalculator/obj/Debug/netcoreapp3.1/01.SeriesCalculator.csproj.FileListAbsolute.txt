@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-15and16June2019\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.genruntimeconfig.cache

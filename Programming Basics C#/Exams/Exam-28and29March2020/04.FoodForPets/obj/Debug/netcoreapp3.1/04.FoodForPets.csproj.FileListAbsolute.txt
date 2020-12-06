@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\bin\Debug\netcoreapp3.1\04.FoodForPets.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-28and29March2020\04.FoodForPets\obj\Debug\netcoreapp3.1\04.FoodForPets.genruntimeconfig.cache

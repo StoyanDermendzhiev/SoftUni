@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.genruntimeconfig.cache

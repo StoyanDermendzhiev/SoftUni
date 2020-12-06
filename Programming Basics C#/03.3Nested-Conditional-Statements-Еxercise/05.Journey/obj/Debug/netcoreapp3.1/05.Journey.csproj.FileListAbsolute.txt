@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.exe
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.deps.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\bin\Debug\netcoreapp3.1\05.Journey.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.AssemblyInfo.cs
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.dll
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.pdb
+C:\Users\Techo\source\repos\03.3Nested-Conditional-Statements-Еxercise\05.Journey\obj\Debug\netcoreapp3.1\05.Journey.genruntimeconfig.cache

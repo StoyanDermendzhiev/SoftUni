@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\bin\Debug\netcoreapp3.1\03.SpeedRacing.exe
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\bin\Debug\netcoreapp3.1\03.SpeedRacing.deps.json
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\bin\Debug\netcoreapp3.1\03.SpeedRacing.runtimeconfig.json
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\bin\Debug\netcoreapp3.1\03.SpeedRacing.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\bin\Debug\netcoreapp3.1\03.SpeedRacing.dll
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\bin\Debug\netcoreapp3.1\03.SpeedRacing.pdb
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\obj\Debug\netcoreapp3.1\03.SpeedRacing.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\obj\Debug\netcoreapp3.1\03.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\obj\Debug\netcoreapp3.1\03.SpeedRacing.AssemblyInfo.cs
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\obj\Debug\netcoreapp3.1\03.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\obj\Debug\netcoreapp3.1\03.SpeedRacing.dll
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\obj\Debug\netcoreapp3.1\03.SpeedRacing.pdb
+C:\Users\Techo\source\repos\06.ObjectsAndClassesMoreExercise\03.SpeedRacing\obj\Debug\netcoreapp3.1\03.SpeedRacing.genruntimeconfig.cache

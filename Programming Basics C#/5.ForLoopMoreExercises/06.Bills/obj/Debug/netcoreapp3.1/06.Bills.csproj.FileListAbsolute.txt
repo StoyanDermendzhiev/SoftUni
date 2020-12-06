@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.exe
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.deps.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.runtimeconfig.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.dll
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.pdb
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.AssemblyInfo.cs
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.dll
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.pdb
+C:\Users\Techo\source\repos\5.ForLoopMoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.genruntimeconfig.cache

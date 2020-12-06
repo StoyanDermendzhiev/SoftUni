@@ -1,0 +1,12 @@
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\bin\Debug\netcoreapp3.1\1to9.exe
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\bin\Debug\netcoreapp3.1\1to9.deps.json
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\bin\Debug\netcoreapp3.1\1to9.runtimeconfig.json
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\bin\Debug\netcoreapp3.1\1to9.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\bin\Debug\netcoreapp3.1\1to9.dll
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\bin\Debug\netcoreapp3.1\1to9.pdb
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\obj\Debug\netcoreapp3.1\1to9.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\obj\Debug\netcoreapp3.1\1to9.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\obj\Debug\netcoreapp3.1\1to9.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\obj\Debug\netcoreapp3.1\1to9.dll
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\obj\Debug\netcoreapp3.1\1to9.pdb
+C:\Users\Magi\source\repos\Conditional.Statements\1to9\obj\Debug\netcoreapp3.1\1to9.genruntimeconfig.cache

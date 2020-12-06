@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineRetakeExam2and3May2019\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.genruntimeconfig.cache

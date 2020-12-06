@@ -1,0 +1,13 @@
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\bin\Debug\netcoreapp3.1\RadianToDegree.exe
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\bin\Debug\netcoreapp3.1\RadianToDegree.deps.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\bin\Debug\netcoreapp3.1\RadianToDegree.runtimeconfig.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\bin\Debug\netcoreapp3.1\RadianToDegree.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\bin\Debug\netcoreapp3.1\RadianToDegree.dll
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\bin\Debug\netcoreapp3.1\RadianToDegree.pdb
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\obj\Debug\netcoreapp3.1\RadianToDegree.csprojAssemblyReference.cache
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\obj\Debug\netcoreapp3.1\RadianToDegree.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\obj\Debug\netcoreapp3.1\RadianToDegree.AssemblyInfo.cs
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\obj\Debug\netcoreapp3.1\RadianToDegree.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\obj\Debug\netcoreapp3.1\RadianToDegree.dll
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\obj\Debug\netcoreapp3.1\RadianToDegree.pdb
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\RadianToDegree\obj\Debug\netcoreapp3.1\RadianToDegree.genruntimeconfig.cache

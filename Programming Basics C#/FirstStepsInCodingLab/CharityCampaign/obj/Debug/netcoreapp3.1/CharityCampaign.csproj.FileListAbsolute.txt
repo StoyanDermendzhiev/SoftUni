@@ -1,0 +1,12 @@
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.exe
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.deps.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.dev.json
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.dll
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.pdb
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfo.cs
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.dll
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.pdb
+C:\Users\Magi\source\repos\FirstStepsInCodingLab\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.genruntimeconfig.cache

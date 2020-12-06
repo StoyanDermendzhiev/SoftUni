@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.exe
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.deps.json
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.json
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.dll
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\bin\Debug\netcoreapp3.1\01.WorldTour.pdb
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.AssemblyInfo.cs
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.dll
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.pdb
+C:\Users\Techo\source\repos\FinalExam09August2020\01.WorldTour\obj\Debug\netcoreapp3.1\01.WorldTour.genruntimeconfig.cache

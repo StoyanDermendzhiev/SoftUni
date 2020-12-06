@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-6and7July2019\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.genruntimeconfig.cache

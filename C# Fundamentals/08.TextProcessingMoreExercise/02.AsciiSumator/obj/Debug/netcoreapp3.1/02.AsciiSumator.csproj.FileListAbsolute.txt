@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.exe
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.deps.json
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.runtimeconfig.json
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.dll
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\bin\Debug\netcoreapp3.1\02.AsciiSumator.pdb
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.AssemblyInfo.cs
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.dll
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.pdb
+C:\Users\Techo\source\repos\08.TextProcessingMoreExercise\02.AsciiSumator\obj\Debug\netcoreapp3.1\02.AsciiSumator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.exe
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.deps.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.runtimeconfig.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.AssemblyInfo.cs
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.dll
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.pdb
+C:\Users\Techo\source\repos\ProgrammingBasicsOnlineExam-9and10March2019\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.genruntimeconfig.cache

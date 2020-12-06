@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\bin\Debug\netcoreapp3.1\01.MatchTickets.exe
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\bin\Debug\netcoreapp3.1\01.MatchTickets.deps.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\bin\Debug\netcoreapp3.1\01.MatchTickets.runtimeconfig.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\bin\Debug\netcoreapp3.1\01.MatchTickets.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\bin\Debug\netcoreapp3.1\01.MatchTickets.dll
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\bin\Debug\netcoreapp3.1\01.MatchTickets.pdb
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\obj\Debug\netcoreapp3.1\01.MatchTickets.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\obj\Debug\netcoreapp3.1\01.MatchTickets.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\obj\Debug\netcoreapp3.1\01.MatchTickets.AssemblyInfo.cs
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\obj\Debug\netcoreapp3.1\01.MatchTickets.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\obj\Debug\netcoreapp3.1\01.MatchTickets.dll
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\obj\Debug\netcoreapp3.1\01.MatchTickets.pdb
+C:\Users\Techo\source\repos\3.MoreNestedConditionalStatementsExercises\01.MatchTickets\obj\Debug\netcoreapp3.1\01.MatchTickets.genruntimeconfig.cache

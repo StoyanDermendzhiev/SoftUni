@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.exe
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.deps.json
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+C:\Users\Techo\source\repos\02.DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.genruntimeconfig.cache
