@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.exe
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.deps.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\bin\Debug\netcoreapp3.1\02.AdAstra.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\10.Exams\FinalExamRetake15August2020\FinalExamRetake15August2020\02.AdAstra\obj\Debug\netcoreapp3.1\02.AdAstra.genruntimeconfig.cache
