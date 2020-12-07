@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Techo\\source\\repos\\SoftUni-Software-Engineering\\C# Fundamentals\\10.Exams\\FinalExam09August2020\\02.DestinationMapper\\02.DestinationMapper.csproj",
+      "projectUniqueName": "C:\\Users\\Techo\\source\\repos\\SoftUni\\C# Fundamentals\\10.Exams\\FinalExam09August2020\\02.DestinationMapper\\02.DestinationMapper.csproj",
       "projectName": "02.DestinationMapper",
-      "projectPath": "C:\\Users\\Techo\\source\\repos\\SoftUni-Software-Engineering\\C# Fundamentals\\10.Exams\\FinalExam09August2020\\02.DestinationMapper\\02.DestinationMapper.csproj",
+      "projectPath": "C:\\Users\\Techo\\source\\repos\\SoftUni\\C# Fundamentals\\10.Exams\\FinalExam09August2020\\02.DestinationMapper\\02.DestinationMapper.csproj",
       "packagesPath": "C:\\Users\\Techo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Techo\\source\\repos\\SoftUni-Software-Engineering\\C# Fundamentals\\10.Exams\\FinalExam09August2020\\02.DestinationMapper\\obj\\",
+      "outputPath": "C:\\Users\\Techo\\source\\repos\\SoftUni\\C# Fundamentals\\10.Exams\\FinalExam09August2020\\02.DestinationMapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Techo\\AppData\\Roaming\\NuGet\\NuGet.Config",
