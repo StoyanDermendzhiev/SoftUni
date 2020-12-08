@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Santa'sSecretHelper", "03.Santa'sSecretHelper\03.Santa'sSecretHelper.csproj", "{E3E517EF-CAF7-4E34-B12F-FF029AAE2B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Santa'sNewList", "04.Santa'sNewList\04.Santa'sNewList.csproj", "{621E5EFB-0D6D-4F98-9D8B-575F4E111A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E517EF-CAF7-4E34-B12F-FF029AAE2B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E517EF-CAF7-4E34-B12F-FF029AAE2B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E517EF-CAF7-4E34-B12F-FF029AAE2B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E517EF-CAF7-4E34-B12F-FF029AAE2B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621E5EFB-0D6D-4F98-9D8B-575F4E111A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621E5EFB-0D6D-4F98-9D8B-575F4E111A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621E5EFB-0D6D-4F98-9D8B-575F4E111A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621E5EFB-0D6D-4F98-9D8B-575F4E111A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C8C132-E222-4D14-81B2-5980F4E4C0B9}
+	EndGlobalSection
+EndGlobal
