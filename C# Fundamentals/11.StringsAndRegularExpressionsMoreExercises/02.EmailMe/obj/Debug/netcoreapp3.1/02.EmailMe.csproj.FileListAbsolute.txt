@@ -1,0 +1,12 @@
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\bin\Debug\netcoreapp3.1\02.EmailMe.exe
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\bin\Debug\netcoreapp3.1\02.EmailMe.deps.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\bin\Debug\netcoreapp3.1\02.EmailMe.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\bin\Debug\netcoreapp3.1\02.EmailMe.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\bin\Debug\netcoreapp3.1\02.EmailMe.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\bin\Debug\netcoreapp3.1\02.EmailMe.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\obj\Debug\netcoreapp3.1\02.EmailMe.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\obj\Debug\netcoreapp3.1\02.EmailMe.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\obj\Debug\netcoreapp3.1\02.EmailMe.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\obj\Debug\netcoreapp3.1\02.EmailMe.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\obj\Debug\netcoreapp3.1\02.EmailMe.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\02.EmailMe\obj\Debug\netcoreapp3.1\02.EmailMe.genruntimeconfig.cache

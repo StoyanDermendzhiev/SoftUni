@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\bin\Debug\netcoreapp3.1\01.Censorship.exe
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\bin\Debug\netcoreapp3.1\01.Censorship.deps.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\bin\Debug\netcoreapp3.1\01.Censorship.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\bin\Debug\netcoreapp3.1\01.Censorship.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\bin\Debug\netcoreapp3.1\01.Censorship.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\bin\Debug\netcoreapp3.1\01.Censorship.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\obj\Debug\netcoreapp3.1\01.Censorship.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\obj\Debug\netcoreapp3.1\01.Censorship.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\obj\Debug\netcoreapp3.1\01.Censorship.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\obj\Debug\netcoreapp3.1\01.Censorship.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\obj\Debug\netcoreapp3.1\01.Censorship.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\obj\Debug\netcoreapp3.1\01.Censorship.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\01.Censorship\obj\Debug\netcoreapp3.1\01.Censorship.genruntimeconfig.cache

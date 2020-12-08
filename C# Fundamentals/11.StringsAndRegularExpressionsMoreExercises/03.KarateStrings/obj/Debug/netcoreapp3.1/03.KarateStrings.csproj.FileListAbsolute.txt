@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\bin\Debug\netcoreapp3.1\03.KarateStrings.exe
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\bin\Debug\netcoreapp3.1\03.KarateStrings.deps.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\bin\Debug\netcoreapp3.1\03.KarateStrings.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\bin\Debug\netcoreapp3.1\03.KarateStrings.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\bin\Debug\netcoreapp3.1\03.KarateStrings.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\bin\Debug\netcoreapp3.1\03.KarateStrings.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\obj\Debug\netcoreapp3.1\03.KarateStrings.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\obj\Debug\netcoreapp3.1\03.KarateStrings.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\obj\Debug\netcoreapp3.1\03.KarateStrings.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\obj\Debug\netcoreapp3.1\03.KarateStrings.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\obj\Debug\netcoreapp3.1\03.KarateStrings.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\obj\Debug\netcoreapp3.1\03.KarateStrings.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\03.KarateStrings\obj\Debug\netcoreapp3.1\03.KarateStrings.genruntimeconfig.cache

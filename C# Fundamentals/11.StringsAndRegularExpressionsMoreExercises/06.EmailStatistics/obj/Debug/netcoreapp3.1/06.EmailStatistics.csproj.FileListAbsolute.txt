@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\netcoreapp3.1\06.EmailStatistics.exe
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\netcoreapp3.1\06.EmailStatistics.deps.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\netcoreapp3.1\06.EmailStatistics.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\netcoreapp3.1\06.EmailStatistics.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\netcoreapp3.1\06.EmailStatistics.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\bin\Debug\netcoreapp3.1\06.EmailStatistics.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\netcoreapp3.1\06.EmailStatistics.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\netcoreapp3.1\06.EmailStatistics.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\netcoreapp3.1\06.EmailStatistics.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\netcoreapp3.1\06.EmailStatistics.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\netcoreapp3.1\06.EmailStatistics.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\netcoreapp3.1\06.EmailStatistics.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\StringsAndRegularExpressionsMoreExercises\06.EmailStatistics\obj\Debug\netcoreapp3.1\06.EmailStatistics.genruntimeconfig.cache
