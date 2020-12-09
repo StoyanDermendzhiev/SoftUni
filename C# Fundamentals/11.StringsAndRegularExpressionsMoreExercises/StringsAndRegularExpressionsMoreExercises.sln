@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.OnlyLetters", "05.OnlyLe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EmailStatistics", "06.EmailStatistics\06.EmailStatistics.csproj", "{AAB84B62-39D8-4371-9FC3-273B7AE811BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Hideout", "07.Hideout\07.Hideout.csproj", "{46EC0064-9653-4913-B58D-C34EFA4F812F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Hideout", "07.Hideout\07.Hideout.csproj", "{46EC0064-9653-4913-B58D-C34EFA4F812F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Mines", "08.Mines\08.Mines.csproj", "{E1A3B8DA-0D8E-4E33-9342-71EE580DF32C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{46EC0064-9653-4913-B58D-C34EFA4F812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46EC0064-9653-4913-B58D-C34EFA4F812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46EC0064-9653-4913-B58D-C34EFA4F812F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A3B8DA-0D8E-4E33-9342-71EE580DF32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A3B8DA-0D8E-4E33-9342-71EE580DF32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A3B8DA-0D8E-4E33-9342-71EE580DF32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A3B8DA-0D8E-4E33-9342-71EE580DF32C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
