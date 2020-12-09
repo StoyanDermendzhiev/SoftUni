@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Censorship", "01.Censorship\01.Censorship.csproj", "{BC67EC81-1481-4A31-B939-556439ED4E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Censorship", "01.Censorship\01.Censorship.csproj", "{BC67EC81-1481-4A31-B939-556439ED4E71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.EmailMe", "02.EmailMe\02.EmailMe.csproj", "{A021CFB4-71CC-4A65-ADE2-F95D3F48F0A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EmailMe", "02.EmailMe\02.EmailMe.csproj", "{A021CFB4-71CC-4A65-ADE2-F95D3F48F0A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.KarateStrings", "03.KarateStrings\03.KarateStrings.csproj", "{C204C1B7-5B80-4414-9F9B-ABDEDD43331A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.KarateStrings", "03.KarateStrings\03.KarateStrings.csproj", "{C204C1B7-5B80-4414-9F9B-ABDEDD43331A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MorseCodeUpgraded", "04.MorseCodeUpgraded\04.MorseCodeUpgraded.csproj", "{FC79F479-C524-44F3-9D05-AFA6C1E6C9B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MorseCodeUpgraded", "04.MorseCodeUpgraded\04.MorseCodeUpgraded.csproj", "{FC79F479-C524-44F3-9D05-AFA6C1E6C9B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.OnlyLetters", "05.OnlyLetters\05.OnlyLetters.csproj", "{4E04CCA1-1B38-4E53-8DB3-854E88F2BC57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.OnlyLetters", "05.OnlyLetters\05.OnlyLetters.csproj", "{4E04CCA1-1B38-4E53-8DB3-854E88F2BC57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EmailStatistics", "06.EmailStatistics\06.EmailStatistics.csproj", "{AAB84B62-39D8-4371-9FC3-273B7AE811BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EmailStatistics", "06.EmailStatistics\06.EmailStatistics.csproj", "{AAB84B62-39D8-4371-9FC3-273B7AE811BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Hideout", "07.Hideout\07.Hideout.csproj", "{46EC0064-9653-4913-B58D-C34EFA4F812F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{AAB84B62-39D8-4371-9FC3-273B7AE811BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAB84B62-39D8-4371-9FC3-273B7AE811BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAB84B62-39D8-4371-9FC3-273B7AE811BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EC0064-9653-4913-B58D-C34EFA4F812F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EC0064-9653-4913-B58D-C34EFA4F812F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EC0064-9653-4913-B58D-C34EFA4F812F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EC0064-9653-4913-B58D-C34EFA4F812F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
