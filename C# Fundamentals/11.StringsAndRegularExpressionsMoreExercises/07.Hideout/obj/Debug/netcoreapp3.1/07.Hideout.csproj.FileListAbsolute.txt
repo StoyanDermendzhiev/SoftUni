@@ -1,0 +1,13 @@
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\bin\Debug\netcoreapp3.1\07.Hideout.exe
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\bin\Debug\netcoreapp3.1\07.Hideout.deps.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\bin\Debug\netcoreapp3.1\07.Hideout.runtimeconfig.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\bin\Debug\netcoreapp3.1\07.Hideout.runtimeconfig.dev.json
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\bin\Debug\netcoreapp3.1\07.Hideout.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\bin\Debug\netcoreapp3.1\07.Hideout.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\obj\Debug\netcoreapp3.1\07.Hideout.csprojAssemblyReference.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\obj\Debug\netcoreapp3.1\07.Hideout.AssemblyInfoInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\obj\Debug\netcoreapp3.1\07.Hideout.AssemblyInfo.cs
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\obj\Debug\netcoreapp3.1\07.Hideout.csproj.CoreCompileInputs.cache
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\obj\Debug\netcoreapp3.1\07.Hideout.dll
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\obj\Debug\netcoreapp3.1\07.Hideout.pdb
+C:\Users\Techo\source\repos\SoftUni\C# Fundamentals\11.StringsAndRegularExpressionsMoreExercises\07.Hideout\obj\Debug\netcoreapp3.1\07.Hideout.genruntimeconfig.cache
