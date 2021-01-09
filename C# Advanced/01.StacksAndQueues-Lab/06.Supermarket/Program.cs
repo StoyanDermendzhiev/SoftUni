@@ -30,7 +30,7 @@ namespace _06.Supermarket
                 input = Console.ReadLine();
             }
 
-            sb.AppendLine($"{queue.Count} people remaining");
+            sb.AppendLine($"{queue.Count} people remaining.");
 
             Console.WriteLine(sb.ToString());
         }
