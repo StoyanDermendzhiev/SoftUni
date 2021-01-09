@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _4.MatchingBrackets
+namespace _04.MatchingBrackets
 {
     class Program
     {
