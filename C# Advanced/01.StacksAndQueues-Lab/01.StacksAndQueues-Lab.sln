@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{A9228B21-18F2-4AF6-8458-F378DEFD85C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ReverseStrings", "01.ReverseStrings\01.ReverseStrings.csproj", "{A9228B21-18F2-4AF6-8458-F378DEFD85C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StackSum", "02.StackSum\02.StackSum.csproj", "{2DFB7F02-94AB-4F9A-8860-F003C9980DF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.StackSum", "02.StackSum\02.StackSum.csproj", "{2DFB7F02-94AB-4F9A-8860-F003C9980DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SimpleCalculator", "03.SimpleCalculator\03.SimpleCalculator.csproj", "{AF1C553E-E34E-4F9D-9FC2-8EACE4A7A998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.MatchingBrackets", "4.MatchingBrackets\4.MatchingBrackets.csproj", "{777CA34E-4698-485B-BD28-B853E53151DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{2DFB7F02-94AB-4F9A-8860-F003C9980DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DFB7F02-94AB-4F9A-8860-F003C9980DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DFB7F02-94AB-4F9A-8860-F003C9980DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF1C553E-E34E-4F9D-9FC2-8EACE4A7A998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1C553E-E34E-4F9D-9FC2-8EACE4A7A998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1C553E-E34E-4F9D-9FC2-8EACE4A7A998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1C553E-E34E-4F9D-9FC2-8EACE4A7A998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777CA34E-4698-485B-BD28-B853E53151DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777CA34E-4698-485B-BD28-B853E53151DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777CA34E-4698-485B-BD28-B853E53151DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777CA34E-4698-485B-BD28-B853E53151DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
