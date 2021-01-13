@@ -58,7 +58,7 @@ namespace _10.Crossroads
                             int crashedIndex = crashedCar.Length - lengthLeft + freeWindow;
 
                             Console.WriteLine("A crash happened!");
-                            Console.WriteLine($"{crashedCar} was hit at {crashedCar[crashedIndex]}");
+                            Console.WriteLine($"{crashedCar} was hit at {crashedCar[crashedIndex]}.");
                             return;
                         }
                         else
