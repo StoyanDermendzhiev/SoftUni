@@ -30,14 +30,7 @@ namespace _04.FastFood
                 }
             }
 
-            var sb = new StringBuilder();
-
-            while (queue.Count > 0)
-            {
-                sb.Append($"{queue.Dequeue()} ");
-            }
-
-            Console.WriteLine($"Orders left: {sb}");
+            Console.WriteLine($"Orders left: {string.Join(" ", queue)}");
         }
     }
 }
