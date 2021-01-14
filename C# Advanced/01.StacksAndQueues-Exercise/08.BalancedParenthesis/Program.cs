@@ -8,7 +8,6 @@ namespace _08.BalancedParenthesis
         static void Main(string[] args)
         {
             char[] sequence = Console.ReadLine()
-                                     .Trim()
                                      .ToCharArray();
 
             var stack = new Stack<char>();
@@ -24,15 +23,11 @@ namespace _08.BalancedParenthesis
                 }
                 else if (currentChar == ')' || currentChar == '}' || currentChar == ']')
                 {
-                    char previosChar = stack.Peek();
+                    char previosChar = stack.Pop();
 
-                    if ((previosChar == '(' && currentChar == ')') ||
+                    if (!((previosChar == '(' && currentChar == ')') ||
                        (previosChar == '{' && currentChar == '}') ||
-                       (previosChar == '[' && currentChar == ']'))
-                    {
-                        stack.Pop();
-                    }
-                    else
+                       (previosChar == '[' && currentChar == ']')))
                     {
                         isBalanced = false;
                         break;
