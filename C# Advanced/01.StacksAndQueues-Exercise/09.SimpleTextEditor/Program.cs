@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace _09.SimpleTextEditor
 {
@@ -8,8 +9,9 @@ namespace _09.SimpleTextEditor
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            string text = string.Empty;
+            var sb = new StringBuilder();
             var stack = new Stack<string>();
+            stack.Push(sb.ToString());
 
             for (int i = 0; i < n; i++)
             {
@@ -19,32 +21,22 @@ namespace _09.SimpleTextEditor
                 switch (command)
                 {
                     case 1:
-                        string someString = input[1];
-                        text += someString;
-                        stack.Push(text);
+                        sb.Append(input[1]);
+                        stack.Push(sb.ToString());
                         break;
                     case 2:
                         int count = int.Parse(input[1]);
-
-                        if (count > text.Length)
-                        {
-                            text = string.Empty;
-                        }
-                        else
-                        {
-                            text = text.Remove(text.Length - count);
-                        }
-
-                        stack.Push(text);
+                        sb.Remove(sb.Length - count, count);
+                        stack.Push(sb.ToString());
                         break;
                     case 3:
                         int index = int.Parse(input[1]);
-                        Console.WriteLine(text[index - 1]);
+                        Console.WriteLine(sb[index - 1]);
                         break;
                     case 4:
                         stack.Pop();
-                        text = stack.Pop();
-                        stack.Push(text);
+                        sb = new StringBuilder();
+                        sb.Append(stack.Peek());
                         break;
                 }
             }
