@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _08.BalancedParenthesis
 {
@@ -21,7 +22,7 @@ namespace _08.BalancedParenthesis
                 {
                     stack.Push(currentChar);
                 }
-                else if (currentChar == ')' || currentChar == '}' || currentChar == ']')
+                else if ((currentChar == ')' || currentChar == '}' || currentChar == ']') && stack.Count > 0)
                 {
                     char previosChar = stack.Pop();
 
@@ -32,6 +33,11 @@ namespace _08.BalancedParenthesis
                         isBalanced = false;
                         break;
                     }
+                }
+                else
+                {
+                    Console.WriteLine("NO");
+                    return;
                 }
             }
 
