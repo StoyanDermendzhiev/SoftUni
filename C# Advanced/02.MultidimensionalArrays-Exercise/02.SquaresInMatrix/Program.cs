@@ -8,7 +8,7 @@ namespace _02.SquaresInMatrix
         static void Main(string[] args)
         {
             int[] matrixDimensions = Console.ReadLine()
-                                            .Split()
+                                            .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                                             .Select(int.Parse)
                                             .ToArray();
 
@@ -17,7 +17,7 @@ namespace _02.SquaresInMatrix
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 char[] rowData = Console.ReadLine()
-                                            .Split()
+                                            .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                                             .Select(char.Parse)
                                             .ToArray();
 

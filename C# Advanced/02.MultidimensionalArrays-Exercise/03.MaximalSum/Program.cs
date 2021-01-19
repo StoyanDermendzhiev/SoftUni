@@ -8,7 +8,7 @@ namespace _03.MaximalSum
         static void Main(string[] args)
         {
             int[] matrixDimensions = Console.ReadLine()
-                                            .Split()
+                                            .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                                             .Select(int.Parse)
                                             .ToArray();
             int n = matrixDimensions[0];
@@ -19,7 +19,7 @@ namespace _03.MaximalSum
             for (int row = 0; row < n; row++)
             {
                 int[] rowData = Console.ReadLine()
-                                            .Split()
+                                            .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                                             .Select(int.Parse)
                                             .ToArray();
 
@@ -29,32 +29,29 @@ namespace _03.MaximalSum
                 }
             }
 
-            int maxSum = 0;
+            int maxSum = int.MinValue;
             int maxSumRow = -1;
             int maxSumCol = -1;
 
-            if (n > 2 && m > 2)
+            for (int row = 0; row < n - 2; row++)
             {
-                for (int row = 0; row < n - 2; row++)
+                for (int col = 0; col < m - 2; col++)
                 {
-                    for (int col = 0; col < m - 2; col++)
+                    int sum = 0;
+
+                    for (int i = row; i < row + 3; i++)
                     {
-                        int sum = 0;
-
-                        for (int i = row; i < row + 3; i++)
+                        for (int j = col; j < col + 3; j++)
                         {
-                            for (int j = col; j < col + 3; j++)
-                            {
-                                sum += matrix[i, j];
-                            }
+                            sum += matrix[i, j];
                         }
+                    }
 
-                        if (sum > maxSum)
-                        {
-                            maxSum = sum;
-                            maxSumRow = row;
-                            maxSumCol = col;
-                        }
+                    if (sum > maxSum)
+                    {
+                        maxSum = sum;
+                        maxSumRow = row;
+                        maxSumCol = col;
                     }
                 }
             }
