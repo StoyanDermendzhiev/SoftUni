@@ -9,13 +9,13 @@ namespace _06.JaggedArrayManipulator
         {
             int n = int.Parse(Console.ReadLine());
 
-            int[][] jaggedMatrix = new int[n][];
+            double[][] jaggedMatrix = new double[n][];
 
             for (int row = 0; row < n; row++)
             {
                 jaggedMatrix[row] = Console.ReadLine()
                                            .Split(" ", StringSplitOptions.RemoveEmptyEntries)
-                                           .Select(int.Parse)
+                                           .Select(double.Parse)
                                            .ToArray();
             }
 
@@ -74,7 +74,7 @@ namespace _06.JaggedArrayManipulator
             PrintMatrix(jaggedMatrix);
         }
 
-        static void PrintMatrix(int[][] matrix)
+        static void PrintMatrix(double[][] matrix)
         {
             for (int row = 0; row < matrix.Length; row++)
             {
