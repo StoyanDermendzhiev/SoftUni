@@ -39,7 +39,7 @@ namespace _04.MatrixShuffling
 
                 if (!isValidCommand)
                 {
-                    Console.WriteLine("Invalid input");
+                    Console.WriteLine("Invalid input!");
                     input = Console.ReadLine();
                     continue;
                 }
