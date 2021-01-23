@@ -25,7 +25,7 @@ namespace _08.Ranking
 
             string sumbission = Console.ReadLine();
 
-            Dictionary<string, Dictionary<string, int>> users = new Dictionary<string, Dictionary<string, int>>();
+            SortedDictionary<string, Dictionary<string, int>> users = new SortedDictionary<string, Dictionary<string, int>>();
 
             while (sumbission != "end of submissions")
             {
@@ -65,12 +65,7 @@ namespace _08.Ranking
 
             foreach (var user in users)
             {
-                int totalPoints = 0;
-
-                foreach (var contest in user.Value)
-                {
-                    totalPoints += contest.Value;
-                }
+                int totalPoints = user.Value.Values.Sum();
 
                 if (maxTotalPoints < totalPoints)
                 {
@@ -82,7 +77,7 @@ namespace _08.Ranking
             Console.WriteLine($"Best candidate is {bestCandidate} with total {maxTotalPoints} points.");
             Console.WriteLine("Ranking:");
 
-            foreach (var user in users.OrderBy(u => u.Key))
+            foreach (var user in users)
             {
                 Console.WriteLine(user.Key);
 
