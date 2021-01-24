@@ -12,17 +12,19 @@ namespace _01.OddLines
                 string currentRow = reader.ReadLine();
                 int row = 0;
 
-                while (currentRow != null)
+                using (StreamWriter writer = new StreamWriter("../../../output.txt"))
                 {
-                    if (row % 2 != 0)
+                    while (currentRow != null)
                     {
-                        Console.WriteLine(currentRow);
+                        if (row % 2 != 0)
+                        {
+                            writer.WriteLine(currentRow);
+                        }
+
+                        currentRow = reader.ReadLine();
+                        row++;
                     }
-
-                    currentRow = reader.ReadLine();
-                    row++;
                 }
-
             }
         }
     }
