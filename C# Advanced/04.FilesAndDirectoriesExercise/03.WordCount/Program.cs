@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -30,6 +31,30 @@ namespace _03.WordCount
             }
 
             File.WriteAllLines("../../../actualResult.txt", wordsCount.Select(x => x.Key + " - " + x.Value));
+
+            List<string> expectedResult = new List<string>();
+
+            foreach (var item in wordsCount.OrderByDescending(i=>i.Value))
+            {
+                expectedResult.Add($"{item.Key} - {item.Value}");
+            }
+
+            bool isCorrect = true;
+
+            using (StreamReader reader = new StreamReader("../../../expectedResult.txt"))
+            {
+                foreach (var item in expectedResult)
+                {
+                    string line = reader.ReadLine();
+
+                    if (!(line == item))
+                    {
+                        isCorrect = false;
+                    }
+                }
+            }
+
+            Console.WriteLine(isCorrect);
         }
     }
 }
