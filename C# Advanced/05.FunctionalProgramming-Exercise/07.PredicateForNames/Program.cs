@@ -14,14 +14,9 @@ namespace _07.PredicateForNames
                 .Split(" ", StringSplitOptions.RemoveEmptyEntries)
                 .ToList();
 
-            Func<List<string>, List<string>> filter = names =>
-            {
-                names = names.Where(name => name.Length <= 4).ToList();
+            names = names.Where(name => name.Length <= n).ToList();
 
-                return names;
-            };
-
-            Console.WriteLine(string.Join(Environment.NewLine, filter(names)));
+            Console.WriteLine(string.Join(Environment.NewLine, names));
         }
     }
 }
