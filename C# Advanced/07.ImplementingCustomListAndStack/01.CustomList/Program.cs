@@ -6,7 +6,7 @@ namespace _01.CustomList
     {
         static void Main(string[] args)
         {
-            CustomList list = new CustomList();
+            CustomList<int> list = new CustomList<int>();
 
             list.Add(2);
             list.Add(5);
