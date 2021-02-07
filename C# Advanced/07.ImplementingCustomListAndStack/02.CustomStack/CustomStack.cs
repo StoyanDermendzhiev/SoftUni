@@ -4,18 +4,18 @@ using System.Text;
 
 namespace _02.CustomStack
 {
-    class CustomStack
+    class CustomStack<T>
     {
         private const int InitialCapacity = 4;
 
-        private int[] items;
+        private T[] items;
 
         private int count;
 
         public CustomStack()
         {
             count = 0;
-            items = new int[InitialCapacity];
+            items = new T[InitialCapacity];
         }
 
         public int Count
@@ -26,11 +26,11 @@ namespace _02.CustomStack
             }
         }
 
-        public void Push(int element)
+        public void Push(T element)
         {
             if (items.Length == count)
             {
-                var nextItems = new int[items.Length * 2];
+                var nextItems = new T[items.Length * 2];
 
                 for (int i = 0; i < items.Length; i++)
                 {
@@ -44,7 +44,7 @@ namespace _02.CustomStack
             count++;
         }
 
-        public int Pop()
+        public T Pop()
         {
             if (items.Length == 0)
             {
@@ -52,12 +52,12 @@ namespace _02.CustomStack
             }
 
             var lastIndex = count - 1;
-            int last = items[lastIndex];
+            T last = items[lastIndex];
             count--;
 
             if (count == items.Length / 2)
             {
-                var previousItems = new int[count];
+                var previousItems = new T[count];
 
                 for (int i = 0; i < count; i++)
                 {
@@ -70,19 +70,19 @@ namespace _02.CustomStack
             return last;
         }
 
-        public int Peek()
+        public T Peek()
         {
             if (items.Length == 0)
             {
                 throw new InvalidOperationException("CustomStack is empty");
             }
 
-            int peekElement = items[count - 1];
+            T peekElement = items[count - 1];
 
             return peekElement;
         }
 
-        public void ForEach(Action<object> action)
+        public void ForEach(Action<T> action)
         {
             for (int i = 0; i < count; i++)
             {
