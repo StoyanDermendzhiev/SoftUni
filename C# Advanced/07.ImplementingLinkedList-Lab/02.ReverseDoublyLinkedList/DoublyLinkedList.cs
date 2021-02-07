@@ -4,16 +4,16 @@ using System.Text;
 
 namespace ReverseDoublyLinkedList
 {
-    public class DoublyLinkedList
+    public class DoublyLinkedList<T>
     {
         private class Node
         {
-            public Node(int value)
+            public Node(T value)
             {
                 Value = value;
             }
 
-            public int Value { get; set; }
+            public T Value { get; set; }
 
             public Node NextNode { get; set; }
 
@@ -36,7 +36,7 @@ namespace ReverseDoublyLinkedList
             isReversed = !isReversed;
         }
 
-        public void AddFirst(int element)
+        public void AddFirst(T element)
         {
             if (Count == 0)
             {
@@ -53,7 +53,7 @@ namespace ReverseDoublyLinkedList
             Count++;
         }
 
-        public void AddLast(int element)
+        public void AddLast(T element)
         {
             if (Count == 0)
             {
@@ -70,7 +70,7 @@ namespace ReverseDoublyLinkedList
             Count++;
         }
 
-        public void ForEach(Action<int> action)
+        public void ForEach(Action<T> action)
         {
             var currNode = head;
 
