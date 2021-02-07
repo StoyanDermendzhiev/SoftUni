@@ -4,16 +4,16 @@ using System.Text;
 
 namespace CustomDoublyLinkedList
 {
-    public class DoublyLinkedList
+    public class DoublyLinkedList<T>
     {
         private class Node
         {
-            public Node(int value)
+            public Node(T value)
             {
                 Value = value;
             }
 
-            public int Value { get; set; }
+            public T Value { get; set; }
 
             public Node NextNode { get; set; }
 
@@ -24,7 +24,7 @@ namespace CustomDoublyLinkedList
 
         public int Count { get; set; }
 
-        public void AddFirst(int element)
+        public void AddFirst(T element)
         {
             if (Count == 0)
             {
@@ -41,7 +41,7 @@ namespace CustomDoublyLinkedList
             Count++;
         }
 
-        public void AddLast(int element)
+        public void AddLast(T element)
         {
             if (Count == 0)
             {
@@ -58,7 +58,7 @@ namespace CustomDoublyLinkedList
             Count++;
         }
 
-        public int RemoveFirst()
+        public T RemoveFirst()
         {
             if (Count == 0)
             {
@@ -82,7 +82,7 @@ namespace CustomDoublyLinkedList
             return firstElement;
         }
 
-        public int RemoveLast()
+        public T RemoveLast()
         {
             if (Count == 0)
             {
@@ -106,7 +106,7 @@ namespace CustomDoublyLinkedList
             return lastElement;
         }
 
-        public void ForEach(Action<int> action)
+        public void ForEach(Action<T> action)
         {
             var currNode = head;
 
@@ -117,12 +117,12 @@ namespace CustomDoublyLinkedList
             }
         }
 
-        public int[] ToArray()
+        public T[] ToArray()
         {
             int index = 0;
-            int[] array = new int[Count];
+            T[] array = new T[Count];
 
-            ForEach((int nodeValue) =>
+            ForEach((T nodeValue) =>
             {
                 array[index] = nodeValue;
                 index++;
