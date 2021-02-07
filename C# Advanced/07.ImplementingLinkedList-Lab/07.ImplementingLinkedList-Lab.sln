@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CustomDoublyLinkedList", "01.CustomDoublyLinkedList\01.CustomDoublyLinkedList.csproj", "{C263DEE1-91DB-4E95-8A3D-41F90F3154BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CustomDoublyLinkedList", "01.CustomDoublyLinkedList\01.CustomDoublyLinkedList.csproj", "{C263DEE1-91DB-4E95-8A3D-41F90F3154BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverseDoublyLinkedList", "02.ReverseDoublyLinkedList\02.ReverseDoublyLinkedList.csproj", "{4540CB61-01C2-4A17-A5F1-64614D9034C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C263DEE1-91DB-4E95-8A3D-41F90F3154BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C263DEE1-91DB-4E95-8A3D-41F90F3154BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C263DEE1-91DB-4E95-8A3D-41F90F3154BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4540CB61-01C2-4A17-A5F1-64614D9034C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4540CB61-01C2-4A17-A5F1-64614D9034C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4540CB61-01C2-4A17-A5F1-64614D9034C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4540CB61-01C2-4A17-A5F1-64614D9034C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
