@@ -4,20 +4,20 @@ using System.Text;
 
 namespace _01.CustomList
 {
-    class CustomList
+    class CustomList<T>
     {
         private const int InitialCapacity = 2;
 
-        private int[] items;
+        private T[] items;
 
         public CustomList()
         {
-            this.items = new int[InitialCapacity];
+            this.items = new T[InitialCapacity];
         }
 
         public int Count { get; private set; }
 
-        public int this[int index]
+        public T this[int index]
         {
             get
             {
@@ -37,7 +37,7 @@ namespace _01.CustomList
             }
         }
 
-        public void Add(int item)
+        public void Add(T item)
         {
             if (Count == items.Length)
             {
@@ -48,15 +48,15 @@ namespace _01.CustomList
             Count++;
         }
 
-        public int RemoveAt(int index)
+        public T RemoveAt(int index)
         {
             if (index >= Count)
             {
                 throw new ArgumentOutOfRangeException();
             }
 
-            var item = items[index];
-            items[index] = default(int);
+            T item = items[index];
+            items[index] = default(T);
             Shift(index);
 
             Count--;
@@ -69,7 +69,7 @@ namespace _01.CustomList
             return item;
         }
 
-        public void Insert(int index, int element)
+        public void Insert(int index, T element)
         {
             if (index > Count)
             {
@@ -87,11 +87,11 @@ namespace _01.CustomList
             Count++;
         }
 
-        public bool Contains(int element)
+        public bool Contains(T element)
         {
             for (int i = 0; i < Count; i++)
             {
-                if (items[i] == element)
+                if (items[i].Equals(element))
                 {
                     return true;
                 }
@@ -107,14 +107,14 @@ namespace _01.CustomList
                 throw new IndexOutOfRangeException();
             }
 
-            int currentElement = items[firstIndex];
+            T currentElement = items[firstIndex];
             items[firstIndex] = items[secondIndex];
             items[secondIndex] = currentElement;
         }
 
         private void Resize()
         {
-            int[] copy = new int[items.Length * 2];
+            T[] copy = new T[items.Length * 2];
 
             for (int i = 0; i < items.Length; i++)
             {
@@ -134,7 +134,7 @@ namespace _01.CustomList
 
         private void Shrink()
         {
-            int[] copy = new int[items.Length / 2];
+            T[] copy = new T[items.Length / 2];
 
             for (int i = 0; i < Count; i++)
             {
