@@ -6,7 +6,7 @@ namespace ReverseDoublyLinkedList
     {
         static void Main(string[] args)
         {
-            DoublyLinkedList list = new DoublyLinkedList();
+            DoublyLinkedList<int> list = new DoublyLinkedList<int>();
 
             for (int i = 0; i < 10; i++)
             {
