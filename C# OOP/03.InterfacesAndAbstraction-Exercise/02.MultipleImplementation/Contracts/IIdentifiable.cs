@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PersonInfo
+﻿namespace PersonInfo.Contracts
 {
     public interface IIdentifiable
     {
-        public string Id { get; set; }
+        string Id { get; }
     }
 }

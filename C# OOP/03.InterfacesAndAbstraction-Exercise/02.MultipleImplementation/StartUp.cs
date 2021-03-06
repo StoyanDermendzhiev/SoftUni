@@ -1,4 +1,6 @@
 ﻿using System;
+using PersonInfo.Contracts;
+using PersonInfo.Models;
 
 namespace PersonInfo
 {
@@ -16,7 +18,6 @@ namespace PersonInfo
 
             Console.WriteLine(identifiable.Id);
             Console.WriteLine(birthable.Birthdate);
-
         }
     }
 }
