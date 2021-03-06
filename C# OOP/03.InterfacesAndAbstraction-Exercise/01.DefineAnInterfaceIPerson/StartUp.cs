@@ -1,4 +1,6 @@
 ﻿using System;
+using PersonInfo.Contracts;
+using PersonInfo.Models;
 
 namespace PersonInfo
 {
