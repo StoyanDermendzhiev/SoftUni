@@ -10,9 +10,9 @@ namespace _04.PizzaCalories
             try
             {
                 string pizzaName = Console.ReadLine()
-                       .Split(" ", StringSplitOptions.RemoveEmptyEntries)[1];
+                       .Split()[1];
 
-                string[] doughInfo = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                string[] doughInfo = Console.ReadLine().Split();
 
                 Pizza pizza = new Pizza(pizzaName, new Dough(doughInfo[1].ToLower(), doughInfo[2].ToLower(), int.Parse(doughInfo[3])));
 
@@ -20,7 +20,7 @@ namespace _04.PizzaCalories
 
                 while (input != "END")
                 {
-                    string[] toppingInfo = input.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                    string[] toppingInfo = input.Split();
                     Topping topping = new Topping(toppingInfo[1], int.Parse(toppingInfo[2]));
                     pizza.AddTopping(topping);
 
